@@ -1,2 +1,2 @@
-# studypal
+# AstraLearn
 Rag powered study assistant
